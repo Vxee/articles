@@ -10,3 +10,4 @@
 6. [函数节流和防抖](https://github.com/Vxee/articles/issues/6)
 7. [js bind方法实现](https://github.com/Vxee/articles/issues/7)
 8. [js 模拟实现new](https://github.com/Vxee/articles/issues/8)
+9. [js 模拟实现call和apply](https://github.com/Vxee/articles/issues/9)
