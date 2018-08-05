@@ -14,3 +14,4 @@
 10. [谈谈ES5中对象的创建和继承](https://github.com/Vxee/articles/issues/10)
 11. [JavaScript设计模式与开发实践【第一部分】](https://github.com/Vxee/articles/issues/11)
 12. [JavaScript设计模式与开发实践【第二部分】](https://github.com/Vxee/articles/issues/12)
+13. [Git学习](https://github.com/Vxee/articles/issues/13)
