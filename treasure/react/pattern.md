@@ -1,0 +1,1 @@
+1.[简单的react模式，包括UI和data分离，HOC组件复用等](http://lucasmreis.github.io/blog/simple-react-patterns/)
